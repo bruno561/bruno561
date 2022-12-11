@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" alt="Coding" width="400" src="add your link here">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno561&theme=tokyonight&show_icons=true)
 
 
