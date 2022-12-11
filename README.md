@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/65369082/206931532-2aeb3732-ffa5-4ae3-b33d-6404b2693625.png">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno561&theme=tokyonight&show_icons=true)
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bruno561&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -26,3 +23,5 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
+
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
