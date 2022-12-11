@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/65369082/206931532-2aeb3732-ffa5-4ae3-b33d-6404b2693625.png)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/65369082/206931532-2aeb3732-ffa5-4ae3-b33d-6404b2693625.png">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno561&theme=tokyonight&show_icons=true)
 
