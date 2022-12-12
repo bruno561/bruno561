@@ -1,4 +1,4 @@
-My name is Bruno! I'm DevOps!
+My name is Bruno!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno561&show_icons=true&theme=tokyonight)
 
