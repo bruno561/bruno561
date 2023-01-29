@@ -1,4 +1,4 @@
-## Hi, I'm Bruno! <h3>I'm currently a DevOps engineer focused on Cloud, IaC and Kubernetes. Used this profile to perform my labs and tests.</h3>
+## Hi, I'm Bruno! I'm currently a DevOps engineer focused on Cloud, IaC and Kubernetes. Used this profile to perform my labs and tests.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno561&show_icons=true&theme=tokyonight)
 
