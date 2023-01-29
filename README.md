@@ -16,7 +16,7 @@
   <img align="center" alt="bruno561-aws" height="70" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="bruno561-gcp" height="70" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg">
   <img align="center" alt="bruno561-grafana" height="70" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg">
-  <img align="right" alt="" height="135" style="border-radius:50px;" src="https://www.sisconsultoria.com.br/img/img1.260448e5.webp">
+  <img align="right" alt="" height="125" style="border-radius:50px;" src="https://www.sisconsultoria.com.br/img/img1.260448e5.webp">
 </div>
 
 ##
